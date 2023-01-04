@@ -1,4 +1,4 @@
-# F3 Peak City
+# F3 Green Level
 
 {{< columns >}}
 
@@ -26,7 +26,7 @@ The workouts are for men of all fitness levels and goals, and include running; c
 
 ## Dive deeper
 
-Check out 2nd F (fellowship) and 3rd F (service) opportunities on the F3 Peak City schedule.
+Check out 2nd F (fellowship) and 3rd F (service) opportunities on the F3 Green Level schedule.
 
 {{< button relref="/schedule#2ndf" >}}Check schedule{{< /button >}}
 

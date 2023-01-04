@@ -1,6 +1,6 @@
-baseurl = "https://f3peakcity.com"
+baseurl = "https://f3greenlevel.github.io"
 DefaultContentLanguage = "en"
-title = "F3 Peak City"
+title = "F3 Green Level"
 #theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -9,7 +9,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "G-Z265E06J10"
+#googleAnalytics = 
 
 # Required for inlining iframes, divs, and other markup
 # in the markdown (i.e. .md) files
@@ -66,17 +66,17 @@ unsafe = true
 #   name = "Some Person"
 #   website = "yourwebsite.com"
 #   email = "youremail@domain.com"
-  facebook = "f3peakcity"
-  github = "f3peakcity"
+  facebook = "f3carpex"
+  github = "f3greenlevel"
 #   gitlab = "username"
 #   bitbucket = "username"
-  twitter = "f3peakcity"
+  twitter = "f3carpex"
 #   reddit = "username"
 #   linkedin = "username"
 #   xing = "username"
 #   stackoverflow = "users/XXXXXXX/username"
 #   snapchat = "username"
-  instagram = "f3peakcity"
+  instagram = "f3carpex"
 #   youtube = "user/username" # or channel/channelname
 #   soundcloud = "username"
 #   spotify = "username"
@@ -90,7 +90,7 @@ unsafe = true
 #   mastodon = "url"
 #   kaggle = "username"
 #   weibo = "username"
-  slack = "f3peakcity"
+  slack = "f3greenlevel"
 #   discord = "invite code (https://discord.gg/XXXXXXX)"
 #   strava = "userid"
 

@@ -1,17 +1,17 @@
-# f3peakcity.com website ![Deploy Huge site to Pages](https://github.com/f3peakcity/f3peakcity.github.io/actions/workflows/hugo.yml/badge.svg?branch=main)
+# f3greenlevel.com website ![Deploy Huge site to Pages](https://github.com/f3greenlevel/f3greenlevel.github.io/actions/workflows/hugo.yml/badge.svg?branch=main)
 
-The F3 Peak City website site is built using Hugo and a fork of the [Beautiful Hugo theme](https://github.com/f3peakcity/beautifulhugo).
+The F3 Green Level website site is built using Hugo and a fork of the [Beautiful Hugo theme](https://github.com/f3peakcity/beautifulhugo).
 
 The site is published using GitHub pages, available at the following URLs:
 
-- Production: [https://f3peakcity.com/](https://f3peakcity.com/)
+- Production: [https://f3greenlevel.com/](https://f3greenlevel.com/)
 
 ## Contributors
 
 Pax with admin rights:
 
+- [Cadence](https://github.com/cbsavinsky)
 - [Wahoo](https://github.com/mikeyrcamp)
-- [Clockwork](https://github.com/artberger)
 
 ## Contributing
 
