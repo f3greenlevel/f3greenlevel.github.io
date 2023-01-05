@@ -8,7 +8,7 @@ socialShare: false
 Slack is a group chat app that serves as our group's virtual space for all sorts of mumblechatter. You can access Slack from your phone, desktop, or browser.
 {{< column >}}
 <br>
-{{< button href="https://join.slack.com/t/f3peakcity/shared_invite/zt-1mjr2w8sg-ZA2bQ1ClRx70BHEqsuep1g" >}}Launch Slack{{< /button >}}
+{{< button href="" >}}Launch Slack{{< /button >}}
 {{< endcolumns >}}
 
 > **Need an invite?** Anyone already in the Slack can text you an invite link, or you can give them your email and they can send you a link via email. If needed, [contact us](/contact) for help.
