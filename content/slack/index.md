@@ -53,7 +53,7 @@ As with everything in F3, you are "Freed to Lead," and can post mostly whatever 
 A few general guidelines:
 
 - 💪 We love a "hard commit" (`HC`) culture! If you plan to show up to a workout or event, throw an `HC` emoji reaction on that post.
-- <a href="/decal-says/">🙈</a> Try to keep content more PG-13 than R or NSFW.
+- 🙈 Try to keep content more PG-13 than R or NSFW.
 - 🔥 If you post about "hot button" topics like politics, please be considerate in your word choices and remember that we include men from all walks of life.
 - 🤑 It's ok to share about your personal business, especially if a Pax asks for recommendations. But please don't spam the channels constantly.
 - 🧹 Occassionally the Commz team or another Pax might suggest that a post would be better in a different channel. This is to help us keep Slack tidy, since things get lost very fast.
