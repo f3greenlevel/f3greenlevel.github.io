@@ -29,8 +29,8 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
 | --------- | -------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------ |
 | Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)           | 0530 - 0615        | Measure Twice        | Running & Yoga                                                              |
-| Monday    | [Carpenter Park ](https://goo.gl/maps/bBTownUCbxrYkbXq5)                                | 0545 - 0630        | Winterfell | High Tempo Boot Camp                                                                |
-| Monday    | [Cary Park Club House](https://goo.gl/maps/2dnqVXDbi6WDcBJk6    | 0600 - 0645        | TAR       | Boot Camp                                                      |
+| Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)                                | 0545 - 0630        | Winterfell | High Tempo Boot Camp                                                                |
+| Monday    | [Cary Park Clubhouse](https://goo.gl/maps/2dnqVXDbi6WDcBJk6    | 0600 - 0645        | TAR       | Boot Camp                                                      |
 | DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
 | Tuesday   | [Thomas Brooks Park](https://goo.gl/maps/6fAuzvt5GVVRNShC7)                     | 0545 - 0630        | Field of Dreams | Boot Camp                                                                |
 | Tuesday   | [Davis Drive and Morrisville Carpenter ](https://goo.gl/maps/Ac9k5dyJZbJ1tYx19)                  | 0530 - 0615        | Epcot  | Boot Camp                                                                |
