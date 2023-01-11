@@ -34,24 +34,13 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
 | Tuesday   | [Thomas Brooks Park](https://goo.gl/maps/6fAuzvt5GVVRNShC7)                     | 0545 - 0630        | Field of Dreams | Boot Camp                                                                |
 | Tuesday   | [Davis Drive and Morrisville Carpenter ](https://goo.gl/maps/Ac9k5dyJZbJ1tYx19)                  | 0530 - 0615        | Epcot  | Boot Camp                                                                |
-| DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
+                                                                   |
 | Wednesday | [Amberly Place](https://goo.gl/maps/uAoHconnPQk6t5Wp7)           | 0530 - 0615        | Tortoises            | Limited Run Boot Camp                                                    |
                                                                  |
-| Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0530 - 0615        | Half Dome            | Hi Tempo Hills Boot Camp                                                 |
-| Thursday  | [Hunter Street Park](https://goo.gl/OY4tsf)                                | 0530 - 0615        | Bounty Hunters       | Boot Camp                                                                |
-| Thursday  | [Hunter Street Park](https://goo.gl/OY4tsf)                                | \*0500 - 0615      | The Happy Dino       | Running – 8.7 Miles                                                      |
-| Thursday  | [Publix Parking Lot](https://goo.gl/maps/HK6uAH1PneKCeKxj6)                | 0530 - 0615        | Hot For Teacher      | Boot Camp                                                                |
-| Thursday  | [Cornerstone Fellowship Church](https://goo.gl/maps/AJKTycpLQHo)           | 0530 - 0615        | Tin2Iron             | No Run Boot Camp                                                         |
-| DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
-| Friday    | [Apex Nature Park](https://goo.gl/maps/TukJ7mNQD41TcyFY9)                  | 0530 - 0615        | Dante's Peak         | Boot Camp                                                                |
-| Friday    | [Apex Community Park](https://goo.gl/maps/TukJ7mNQD41TcyFY9)               | 0530 - 0615        | Dazed and Confused   | Boot Camp                                                                |
-| Friday    | [Jordan Lake Beaver Creek Pier](https://maps.app.goo.gl/FQxfhkypaK3v5maR7) | 0600 - 0645        | The Board Meeting    | Paddleboarding (Seasonal, May - Aug)                                     |
-| DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
-| Saturday  | [Apex Nature Park](https://goo.gl/maps/mZiMKmHYUpX4Gd1VA)                  | 0645 - 0745        | Pirahna Park         | Boot Camp                                                                |
-| Saturday  | [Vicious Fishes Parking Lot](https://goo.gl/maps/TUBsjWAtYddDtzEz8)        | 0615 – 0745 – 0810 | The Piranha Mile     | EC Run – 1.7 Miles Each Way                                              |
-| Saturday  | [Downtown Apex](https://goo.gl/maps/AXfDGXbGRv2XyAbD8)                     | 0700               | Das Boot             | Running - all paces - 6 mile base - longer and shorter options available |
-| DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
-| Sunday    | [Starbucks - Hwy 55](https://goo.gl/maps/v82Apf8yVfP1T1Aw9)                | 0700               | Sunday Slowzy        | Running – ~6 Miles – Varying Routes                                      |
+| Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0545 - 0630        | Flying Circus          | Hi Tempo Hills Boot Camp                                                 |
+                                                                 |
+| Friday    | [Amberly](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)                  | 0600 - 0645        | MASH      | Boot Camp                                                                |
+                       |
 
 _\*Launch time may vary depending on pace. Intention is to be back at the Flag in time for COT at 0615._
 
