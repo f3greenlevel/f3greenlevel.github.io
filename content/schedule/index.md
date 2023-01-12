@@ -14,7 +14,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 {{< button href="https://f3churham.com/workouts/" >}}Churham{{< /button >}}
 <br/><br/>
 
-<iframe src="https://map.f3nation.com/?lat=35.732988&amp;lon=-78.857426&amp;zoom=13"
+<iframe src="https://map.f3nation.com/?lat=35.823087&amp;lon=-78.863166&amp;zoom=13"
     style="border:0px #ffffff none;"
     name="f3Maps"
     allow="geolocation"
