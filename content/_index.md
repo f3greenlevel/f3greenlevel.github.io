@@ -4,7 +4,7 @@
 
 ## Get a free workout
 
-Join us for 20+ free workouts right here in the "Peak of Good Living" in Apex, NC and the surrounding areas of Friendship, New Hill, and Jordan Lake.
+Join us for 20+ free workouts right here in Cary, NC and the surrounding areas of Morrisville and RTP.
 
 The workouts are for men of all fitness levels and goals, and include running; cardio with total-body and body-weight exercises; limited run and strength-building with dumbells, kettleballs, and other toys; walking; rucking; recovery stretching and yoga; and even paddleboarding in warm months!
 
