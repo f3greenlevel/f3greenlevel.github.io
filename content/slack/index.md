@@ -64,6 +64,6 @@ A few general guidelines:
 Here are some tips for filling out your profile.
 
 - Most people have a silly profile picture related to their nickname, but you are also welcome to use a selfie.
-- For your **Display Name**, use your F3 name. Some people from other regions might also add their region, like **Prodigal (Carpex)**.
+- For your **Display Name**, use your F3 name. Some people from other regions might also add their region, like **Pivot (Green Level)**.
 - Make sure to add a phone number to the **ICE**, or in case of emergency, field. You can also put this in your title if you want to add more details like a contact name.
 - In your title, feel free to add what you do in real life, or in the group, like if you're a Site Q.
