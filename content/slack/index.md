@@ -37,7 +37,7 @@ Everyone automatically is part of the following channels:
 
 Channels are often used to share interests or coordinate activities around a certain type of event. As Green Level takes off, we are trying to take a "narrow and deep" approach to encourage activity (vs. a "wide and shallow" large number of channels with fewer participants).
 
-> **Tip**: The F3 Carpex Slack (where Green Level started) has been around longer, so has a lot more people and channels. You might try posting there. For an invite to Green Level slack, search "slack" on this [F3 Green Level page](https://f3greenlevel.com/links/).
+> **Tip**: The F3 Carpex Slack (where Green Level started) has been around longer, so has a lot more people and channels. You might try posting there. For an invite to Green Level slack, search "slack" on this [F3 Green Level page](https://f3greenlevel.slack.com/join/shared_invite/zt-1mi3q7pcz-N0cPeqpo5AeLqMXxlz9DgQ#/shared-invite/email).
 
 | Channel                  | Description                                                                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
