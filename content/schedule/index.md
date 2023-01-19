@@ -34,9 +34,10 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | Tuesday   | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                     | 0545 - 0630        | Field of Dreams | Boot Camp                                                                |
 | Tuesday   | [Davis Drive and Morrisville Carpenter ](https://goo.gl/maps/nxEj2QiKuRfJcyrdA9)                  | 0530 - 0615        | Epcot  | Boot Camp                                                                |                                                                |
 | Wednesday | [Amberly Place](https://goo.gl/maps/uAoHconnPQk6t5Wp7)           | 0530 - 0615        | Whoville            | Limited Run Boot Camp                                                    |                                                                |
+| Wednesday | [Northwest Community Church](https://goo.gl/maps/xSsSiYDsuPMJQEAFA)           | 0545 - 0630        | Bell Boca Vista           | Kettle Bells                                                   |                                                                |
 | Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0545 - 0630        | Flying Circus          | Hi Tempo Hills Boot Camp                                                 |                                                                |
 | Friday    | [Amberly](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)                  | 0600 - 0645        | MASH      | Boot Camp                                                                |
-                       |
+| Saturday   | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)                  | 0600 - 0700       | Aleraan      | Run                                                           |
 
 _\*Launch time may vary depending on pace. Intention is to be back at the Flag in time for COT at 0615._
 
