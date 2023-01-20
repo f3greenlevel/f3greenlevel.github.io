@@ -14,7 +14,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 {{< button href="https://f3churham.com/workouts/" >}}Churham{{< /button >}}
 <br/><br/>
 
-<iframe src="https://map.f3nation.com/?lat=35.823087&amp;lon=-78.863166&amp;zoom=13"
+<iframe src="https://map.f3nation.com/?lat=35.823087&amp;lon=-78.863166&amp;zoom=12"
     style="border:0px #ffffff none;"
     name="f3Maps"
     allow="geolocation"
@@ -37,8 +37,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | Wednesday | [Northwest Community Church](https://goo.gl/maps/xSsSiYDsuPMJQEAFA)           | 0545 - 0630        | Bell Boca Vista           | Kettle Bells                                                   |                                                                |
 | Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0545 - 0630        | Flying Circus          | High Tempo Boot Camp                                                |                                                                
 | Friday    | [Amberly](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)                  | 0600 - 0645        | MASH      | Boot Camp                                                                |
-
-| Saturday   | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)                  | 0600 - 0700       | Aleraan      | Run                                                           |
+| Saturday   | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)                  | 0600 - 0700       | Alderaan      | Run                                                           |
 
 _\*Launch time may vary depending on pace. Intention is to be back at the Flag in time for COT at 0615._
 
