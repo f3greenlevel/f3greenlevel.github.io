@@ -28,7 +28,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 
 | DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
 | --------- | -------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------ |
-| Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)           | 0530 - 0615        | Measure Twice        | Running & Yoga                                                              |
+| Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)           | 0530 - 0630       | Measure Twice        | Running & Yoga                                                              |
 | Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)                                | 0545 - 0630        | Winterfell | High Tempo Boot Camp                                                                |
 | Monday    | [Cary Park Clubhouse](https://goo.gl/maps/2dnqVXDbi6WDcBJk6)                      | 0600 - 0645        | TAR       | Boot Camp                                                      |
 | Tuesday   | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                     | 0545 - 0630        | Field of Dreams | Boot Camp                                                                |
@@ -37,8 +37,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | Wednesday | [Northwest Community Church](https://goo.gl/maps/xSsSiYDsuPMJQEAFA)           | 0545 - 0630        | Bell Boca Vista           | Kettle Bells                                                   |                                                                |
 | Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0545 - 0630        | Flying Circus          | High Tempo Boot Camp                                                |                                                                
 | Friday    | [Amberly](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)                  | 0600 - 0645        | MASH      | Boot Camp                                                                |
-| Saturday   | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)                  | 0600 - 0700       | Alderaan      | Run                                                           |
-
+| Saturday  | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)    | 0600 - 0700        | Alderaan         | Run                                                |     
 _\*Launch time may vary depending on pace. Intention is to be back at the Flag in time for COT at 0615._
 
 ### <a name="2ndf"></a>2nd F – Fellowship
