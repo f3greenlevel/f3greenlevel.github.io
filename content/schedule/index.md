@@ -38,6 +38,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0545 - 0630        | Flying Circus          | High Tempo Boot Camp                                                |                                                                
 | Friday    | [Amberly](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)                  | 0600 - 0645        | MASH      | Boot Camp                                                                |
 | Saturday  | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)    | 0600 - 0700        | Alderaan         | Run                                                |     
+
 _\*Launch time for runs may vary depending on pace. Intention is to be back at the Flag in time for COT._
 
 ### <a name="2ndf"></a>2nd F – Fellowship
