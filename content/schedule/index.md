@@ -43,7 +43,7 @@ _\*Launch time for runs may vary depending on pace. Intention is to be back at t
 
 ### <a name="2ndf"></a>2nd F – Fellowship
 
-Many, but not all events at [Lowes Foords in West Cary] (https://goo.gl/maps/Sik2FMyoFZ7sksoM9).  Check Slack for what is happening
+Many, but not all events at [Lowes Foods in West Cary](https://goo.gl/maps/Sik2FMyoFZ7sksoM9).  Check Slack for what is happening
 
 ### <a name="3rdf"></a>3rd F – Small Groups and Community Service
 
