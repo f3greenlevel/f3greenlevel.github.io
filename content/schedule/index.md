@@ -36,7 +36,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | Wednesday | [Amberly Place](https://goo.gl/maps/uAoHconnPQk6t5Wp7)           | 0530 - 0615        | Whoville            | Boot Camp                                                   |                                                                
 | Wednesday | [Northwest Community Church](https://goo.gl/maps/xSsSiYDsuPMJQEAFA)           | 0545 - 0630        | Bell Boca Vista           | Kettle Bells                                                   |                                                                |
 | Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0545 - 0630        | Flying Circus          | High Tempo Boot Camp                                                |                                                                
-| Friday    | [Amberly](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)                  | 0600 - 0645        | MASH      | Limited Run Boot Camp                                                                |
+| Friday    | [Amberly](https://goo.gl/maps/nQrfDXzRgyXbzn3g9)                  | 0600 - 0645        | MASH      | Limited Run Boot Camp                                                                |
 | Saturday  | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)    | 0700 - 0800        | Alderaan         | Run                                                |     
 
 _\*Launch time for runs may vary depending on pace. Intention is to be back at the Flag in time for COT._
