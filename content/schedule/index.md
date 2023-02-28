@@ -28,8 +28,8 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 
 | DAY       | LOCATION                                                                   | TIME               | WORKOUT              | STYLE                                                                    |
 | --------- | -------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------ |
-| Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)           | 0530 - 0630   | Measure Twice        | Running & Yoga                                                              |
-| Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)                                | 0545 - 0630        | Winterfell | Boot Camp                                                                |
+                                                            |
+| Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)                                | 0545 - 0630        | Winterfell & Measure Twice | Boot Camp + Occasional Pop Ups (Check Slack)                                                               |
 | Monday    | [Cary Park Clubhouse](https://goo.gl/maps/2dnqVXDbi6WDcBJk6)                      | 0600 - 0645        | TAR       | Limited Run Boot Camp                                                      |
 | Tuesday   | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                     | 0545 - 0630        | Field of Dreams | Boot Camp                                                                |
 | Tuesday   | [Davis Drive and Morrisville Carpenter ](https://goo.gl/maps/nxEj2QiKuRfJcyrdA9)                  | 0530 - 0615        | Epcot  | High Tempo Boot Camp                                                                |                                                                |
