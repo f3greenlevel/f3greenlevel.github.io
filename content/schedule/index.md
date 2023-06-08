@@ -48,5 +48,7 @@ Many, but not all events at [Lowes Foods in West Cary](https://goo.gl/maps/Sik2F
 ### <a name="3rdf"></a>3rd F – Small Groups and Community Service
 
 | DAY             | LOCATION                                                              | TIME                                                                                                  | WHAT         | DESCRIPTION                                                                              | SLACK                                                                    |
-| --------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | Tuesday | [Good Hope Baptist Church](https://goo.gl/maps/PvaKhGoJXhpNpqdt6)           | 1830 -       | Iron Sharpens Iron        | Bible Study       
+| --------- | -------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------ |
+                                                            |
+| Tuesday | [Good Hope Baptist Church](https://goo.gl/maps/PvaKhGoJXhpNpqdt6)           | 1830 -       | Iron Sharpens Iron        | Bible Study       
 | Wednesday | [Northwest Community Church](https://goo.gl/maps/xSsSiYDsuPMJQEAFA)           | 0630 -       | Outward Man         | Forum to respectfully discuss meaningful topics
