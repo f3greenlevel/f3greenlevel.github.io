@@ -20,7 +20,7 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - These guys execute our large fellowship events a few times a year. Lots of effort, little praise. If you have an ideas about fellowship, reach out to them if you need help.
 
-- 3rd F Qs: Punch Card and High School Musical
+- 3rd F Qs: Pigeon and High School Musical
 
   - Lead a team of men planning and assisting guys to get Faith-based activities going like Bible studies, book studies, or service projects. Any questions in this area, get at them!
 
@@ -28,7 +28,7 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - This is the guy to help you promote your next great plan.
 
-- Region Ambassador: Franklin
+- Region Ambassador: Badlands
 
   - This role ensures we maintain intentional connections with the greater Carpex region.
 
