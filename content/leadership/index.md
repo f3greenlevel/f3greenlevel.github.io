@@ -12,11 +12,11 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - The Q of the Green Level region. He’s the cheerleader. Lays down the 43 feet for the region and exemplifies the Green Level culture.
 
-- 1st F Q: One Direction
+- 1st F Q: Overflow
 
   - Any questions about starting a workout or doing something new in Fitness? These are your guys!
 
-- 2nd F Q: Trike
+- 2nd F Q: Cousin Eddie
 
   - These guys execute our large fellowship events a few times a year. Lots of effort, little praise. If you have an ideas about fellowship, reach out to them if you need help.
 
