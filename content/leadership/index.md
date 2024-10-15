@@ -33,9 +33,9 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
   - This role ensures we maintain intentional connections with the greater Carpex region.
 
 -  FNG & Expansion Q:  Stolen Valor
-
-  -  This is your man to help Green Level grow.  Help him meet the needs of the Green Level region to establish new AO's and reach additional PAX.
+  
+     -  This is your man to help Green Level grow.  Help him meet the needs of the Green Level region to establish new AO's and reach additional PAX.
 
 -  Weasel Shaker:  Beaker
 
-  -  Shakes the weasels and makes sure everyone's doing what they are supposed to do. 
+     -  Shakes the weasels and makes sure everyone's doing what they are supposed to do. 
