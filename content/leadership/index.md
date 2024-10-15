@@ -8,17 +8,17 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
 ### Current SLT
 
-- Nantan: Pivot
+- Nantan: Pom Pom
 
   - The Q of the Green Level region. He’s the cheerleader. Lays down the 43 feet for the region and exemplifies the Green Level culture.
 
 - 1st F Q: Overflow
 
-  - Any questions about starting a workout or doing something new in Fitness? These are your guys!
+  - Any questions about starting a workout or doing something new in Fitness? This is your guy!
 
 - 2nd F Q: Cousin Eddie
 
-  - These guys execute our large fellowship events a few times a year. Lots of effort, little praise. If you have an ideas about fellowship, reach out to them if you need help.
+  - This guy execute our large fellowship events a few times a year. Lots of effort, little praise. If you have an ideas about fellowship, reach out to them if you need help.
 
 - 3rd F Qs: Pigeon
 
@@ -28,10 +28,14 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - This is the guy to help you promote your next great plan.
 
-- Region Ambassador: Badlands
+- Region Ambassador: High School Musical
 
   - This role ensures we maintain intentional connections with the greater Carpex region.
 
--  FNG & Expansion Q:  Garden Nomad
+-  FNG & Expansion Q:  Stolen Valor
 
   -  This is your man to help Green Level grow.  Help him meet the needs of the Green Level region to establish new AO's and reach additional PAX.
+
+-  Weasel Shaker:  Beaker
+
+  -  Shakes the weasels and makes sure everyone's doing what they are supposed to do. 
