@@ -40,7 +40,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | Friday    | [Thomas Brooks Park] (https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                | 0545 - 0630        | MASH     | Kettle Bells Boot Camp FTL | 
 | Friday    | [McCrimmon Park](https://maps.app.goo.gl/LPjh9en8uMiYYggc9)           | 0715 - 0800        | Omega            | Boot Camp|
 | Friday    | [Green Hope Elementary Park](https://maps.app.goo.gl/sJorVynSyPMtryAPA)          | 0530 - 0615        | Gran Torino           | High Tempo Boot Camp|
-| Saturday  | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)    | 0700 - 0800        | Alderaan         | Run, Ruck, Walk, Kettlebell, Bike, Other                                                |     
+| Saturday  | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)    | 0700 - 0800        | Alderaan         | Run, Ruck, Walk, Kettlebell, Bike & Other                                                |     
 
 _\*Launch time for runs may vary depending on pace. Intention is to be back at the Flag in time for COT._
 
