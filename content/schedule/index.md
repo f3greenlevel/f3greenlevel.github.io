@@ -30,14 +30,14 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | --------- | -------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------ |
                                                             |
 | Monday    | [Carpenter Park](https://goo.gl/maps/bBTownUCbxrYkbXq5)                                | 0545 - 0630        | Winterfell & Measure Twice | Boot Camp + Occasional Pop Ups (Check Slack)                                                               |
-| Monday    | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                | 0545 - 0630        | TAR       | Kettle Bells | 
+| Monday    | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                | 0545 - 0630        | The CruciBell       | Kettle Bells | 
 | Monday    | [McCrimmon Park](https://maps.app.goo.gl/LPjh9en8uMiYYggc9)           | 0715 - 0800        | Alpha            | Boot Camp                                                 |
 | Tuesday   | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                     | 0545 - 0630        | Field of Dreams | Boot Camp                                                                |
 | Tuesday   | [Carpenter Fire Station Park](https://maps.app.goo.gl/cRtzFzNsS95BiDHi9)                  | 0530 - 0615        | Epcot  | High Tempo Boot Camp                                                                |                                                                |
 | Wednesday | [McCrimmon Park](https://maps.app.goo.gl/LPjh9en8uMiYYggc9)           | 0530 - 0615        | Whereville            | Boot Camp                                                   |                                                                
-| Wednesday | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)           | 0545 - 0630        | Bell Boca Vista           | Kettle Bells                                                   |                                                                |
+| Wednesday | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)           | 0545 - 0630        | The Iron Furnace           | Kettle Bells                                                   |                                                                |
 | Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0545 - 0630        | Flying Circus          | Boot Camp                                                |                                                                
-| Friday    | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                | 0545 - 0630        | MASH     | Kettle Bells Boot Camp FTL | 
+| Friday    | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                | 0545 - 0630        | The Sultans of Swing     | Kettle Bells Boot Camp FTL | 
 | Friday    | [McCrimmon Park](https://maps.app.goo.gl/LPjh9en8uMiYYggc9)           | 0715 - 0800        | Omega            | Boot Camp|
 | Friday    | [Green Hope Elementary Park](https://maps.app.goo.gl/sJorVynSyPMtryAPA)          | 0530 - 0615        | Gran Torino           | High Tempo Boot Camp|
 | Saturday  | [New Hope Church Trailhead Park](https://goo.gl/maps/z1c3S7iXppcPSoFX6)    | 0700 - 0800        | Alderaan         | Run, Ruck, Walk, Kettlebell, Bike & Other                                                |     
