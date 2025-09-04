@@ -143,8 +143,8 @@ unsafe = true
 
 [[menu.main]]
     parent = "pax"
-    name = "PaxMate Dashboard"
-    url = "paxmate-dashboard/"
+    name = "Resources"
+    url = "resources/"
     weight = 43
 
 [[menu.main]]
