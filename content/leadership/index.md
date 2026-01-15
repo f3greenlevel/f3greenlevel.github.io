@@ -12,7 +12,7 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - The Q of the Green Level region. He’s the cheerleader. Lays down the 43 feet for the region and exemplifies the Green Level culture.
 
-- 1st F Q: Overflow
+- 1st F Q: Overflow (Boot Camp) & Bronx Bomber (Kettlebell)
 
   - Any questions about starting a workout or doing something new in Fitness? This is your guy!
 
@@ -20,11 +20,11 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - This guy execute our large fellowship events a few times a year. Lots of effort, little praise. If you have an ideas about fellowship, reach out to them if you need help.
 
-- 3rd F Qs: Pigeon
+- 3rd F Qs: Sputnik
 
   - Lead a team of men planning and assisting guys to get Faith-based activities going like Bible studies, book studies, or service projects. Any questions in this area, get at them!
 
-- Comz: Bogo
+- Comz: Doggy Paddle
 
   - This is the guy to help you promote your next great plan.
 
@@ -36,6 +36,6 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
   
      -  This is your man to help Green Level grow.  Help him meet the needs of the Green Level region to establish new AO's and reach additional PAX.
 
--  Weasel Shaker:  Beaker
+-  Weasel Shaker:  Goose
 
      -  Shakes the weasels and makes sure everyone's doing what they are supposed to do. 
