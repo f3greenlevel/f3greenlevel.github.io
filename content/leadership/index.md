@@ -14,7 +14,7 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
 - 1st F Q: Overflow (Boot Camp) & Bronx Bomber (Kettlebell)
 
-  - Any questions about starting a workout or doing something new in Fitness? This is your guy!
+  - Any questions about starting a workout or doing something new in Fitness? These are your guys!
 
 - 2nd F Q: Cousin Eddie
 
