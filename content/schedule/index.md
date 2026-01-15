@@ -51,4 +51,4 @@ Many, but not all events at [Lowes Foods in West Cary](https://goo.gl/maps/Sik2F
 ### <a name="3rdf"></a>3rd F – Small Groups and Community Service
 
 Tuesday  [Good Hope Baptist Church](https://goo.gl/maps/PvaKhGoJXhpNpqdt6)           1830 -       Iron Sharpens Iron        Bible Study       
-Wednesday [Northwest Community Church](https://goo.gl/maps/xSsSiYDsuPMJQEAFA)           0630 -       Outward Man         Forum to respectfully discuss meaningful topics
+Friday [Amberly Local](https://www.google.com/maps/place/Amberly+Local/@35.8307685,-78.9111747,17z/data=!3m1!4b1!4m6!3m5!1s0x89aced4d236c1d3f:0xb3624fcf14170981!8m2!3d35.8307685!4d-78.9085998!16s%2Fg%2F11fp3q_wzg?entry=ttu&g_ep=EgoyMDI2MDExMS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D)           1130 - 1300      Disciples Bible Study (Rotating Study Guides)        
