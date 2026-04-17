@@ -24,7 +24,7 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - Lead a team of men planning and assisting guys to get Faith-based activities going like Bible studies, book studies, or service projects. Any questions in this area, get at them!
 
-- Comz: Doggy Paddle
+- Comz: Viewmaster
 
   - This is the guy to help you promote your next great plan.
 
@@ -32,7 +32,7 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - This role ensures we maintain intentional connections with the greater Carpex region.
 
--  FNG & Expansion Q:  Stolen Valor
+-  FNG & Expansion Q:  Doggy Paddle
   
      -  This is your man to help Green Level grow.  Help him meet the needs of the Green Level region to establish new AO's and reach additional PAX.
 
