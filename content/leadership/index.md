@@ -12,11 +12,11 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - The Q of the Green Level region. He’s the cheerleader. Lays down the 43 feet for the region and exemplifies the Green Level culture.
 
-- 1st F Q: Overflow (Boot Camp) & Bronx Bomber (Kettlebell)
+- 1st F Q: Pivot (Boot Camp) & Swiftie (Kettlebell)
 
   - Any questions about starting a workout or doing something new in Fitness? These are your guys!
 
-- 2nd F Q: Cousin Eddie
+- 2nd F Q: Chuck Wagon
 
   - This guy execute our large fellowship events a few times a year. Lots of effort, little praise. If you have an ideas about fellowship, reach out to them if you need help.
 
@@ -28,7 +28,7 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
   - This is the guy to help you promote your next great plan.
 
-- Region Ambassador: High School Musical
+- Region Ambassador: Torpedo
 
   - This role ensures we maintain intentional connections with the greater Carpex region.
 
