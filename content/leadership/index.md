@@ -38,4 +38,6 @@ F3 is peer-led, and as part of that leadership, these PAX make up the Shared Lea
 
 -  Weasel Shaker:  Goose
 
-     -  Shakes the weasels and makes sure everyone's doing what they are supposed to do. 
+     -  Shakes the weasels and makes sure everyone's doing what they are supposed to do.
+ 
+-  
