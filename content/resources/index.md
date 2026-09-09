@@ -8,6 +8,10 @@ Green Level Resources:
 - [Kettlebell Fundamentals:](https://docs.google.com/document/d/1XYJ4OlHC6wnfvzfULTALUaBJk6Ka2Pa-t4WeBjb1T3A/edit?tab=t.0)
 - [Carpex Q Sheet:](https://docs.google.com/spreadsheets/d/1MjgZwuKGFcbxxCzHF9_wtdMM7x78_410A8BrbedpyD8/edit?gid=0#gid=0)
 - [Peak City Q Sheet:](https://docs.google.com/spreadsheets/d/13aEBXExY-04Lq8cCtnqIeOhaxSDh0CGuUPY9vrYW8Io/edit?gid=0#gid=0)
+- [ Q Source: ](https://f3nation.com/q-source/)
+- [Lexicon: ](https://f3nation.com/Lexicon/)
+- [Exicon-Codex: ](https://codex.f3nation.com/exicon)
+- [FNG Alliance: ](https://f3alliance.com/fng)
   
 2ndF:
 - [1st Annual Carpex Cornhole Tournament:](https://docs.google.com/spreadsheets/d/1VhIfv8nOjsvI7JuR67S2fVzhCFpBlAv629ELUYl5eNk/edit?gid=0#gid=0)
