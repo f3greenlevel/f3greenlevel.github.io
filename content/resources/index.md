@@ -4,6 +4,7 @@ Green Level Resources:
 - [F3 EXICON/Codex:](https://codex.f3nation.com/exicon)
 - [F3 Lexicon:](https://codex.f3nation.com/exicon)
 - [F3 FNG Guide:](https://f3alliance.com/fng)
+  
 1stF:
 - [Green Level Counts:](https://docs.google.com/spreadsheets/d/1YxYfx_WlaZVsKiN0OZsPUCK500tAynX3bYtyy4WiGWE/edit?gid=851496150#gid=851496150)
 - [Green Level Q Sheet:](https://docs.google.com/spreadsheets/d/1iXf6IkaH3A1AlvKTKCE2nomxrmborlnpAMQKCBZ-szU/edit?gid=0#gid=0)
