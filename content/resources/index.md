@@ -13,12 +13,12 @@ Green Level Resources:
 - [Peak City Q Sheet:](https://docs.google.com/spreadsheets/d/13aEBXExY-04Lq8cCtnqIeOhaxSDh0CGuUPY9vrYW8Io/edit?gid=0#gid=0)
   
 2ndF:
-- [Book Club: Following Flying Circus each week @ Bojangles HWY55 Cary]
-- [NeighborUp Food Shuttle: Each Saturday morning food pickup at Lowes Mills Park, signup on Q Sheet]
+- Book Club: Following Flying Circus each week @ Bojangles HWY55 Cary
+- NeighborUp Food Shuttle: Each Saturday morning food pickup at Lowes Mills Park, signup on Q Sheet
   
 3rdF:
 - [Green Level Feed the Vets:](https://docs.google.com/spreadsheets/d/1WokoNbw-gcMs0ho2xG4NYgEge83V1e2uQeExKYg17dU/edit?gid=1960943446#gid=1960943446)
 - [Outward Man Q Sheet:](https://docs.google.com/spreadsheets/d/163q8P22Z3gDyJCcDcRJU0n3n-OQzqWpX3JhUa7ZHXDo/edit?gid=1457117850#gid=1457117850)
-- [Iron Sharpens Iron Bible Study: Each Tuesday 630-8P at Pigeon's House or by Teams Link if remote]
+- Iron Sharpens Iron Bible Study: Each Tuesday 630-8P at Pigeon's House or by Teams Link if remote
 
 
